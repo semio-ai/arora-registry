@@ -1,1 +1,5 @@
 # engine-registry
+
+## Structure
+
+TBD
