@@ -1,0 +1,16 @@
+---
+name: Status
+id: 325a5767-e344-4532-860e-0749bcf2e428
+description: Behavior Tree status value (success, failure, running)
+kind:
+  type: enumeration
+  values:
+    766e9e9a-446d-4e46-83e6-14b7ca101169:
+      name: Success
+      ty_id: 00000000-0000-0000-0000-000000000000
+    2468f46c-bb60-425c-9a4d-9ad326ccc7e2:
+      name: Failure
+      ty_id: 00000000-0000-0000-0000-000000000000
+    acd79ec6-0c44-401a-82f8-5da5422d3eec:
+      name: Running
+      ty_id: 00000000-0000-0000-0000-000000000000
