@@ -1,0 +1,17 @@
+---
+name: TestStructure1
+id: 7f9aedf8-dbde-4020-b5f4-c28a6635ae7c
+description: Test Structure 1
+kind:
+  type: structure
+  fields:
+    7d94a956-e50d-4cc4-9714-f62e1f9b134e:
+      name: status
+      type:
+        kind: array
+        id: 325a5767-e344-4532-860e-0749bcf2e428
+    5ffa9104-1e5c-4026-943f-8db38bd34563:
+      name: integer_array
+      type:
+        kind: array
+        id: 00000000-0000-0000-0000-000000000004
