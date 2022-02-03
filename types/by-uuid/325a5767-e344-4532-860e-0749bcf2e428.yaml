@@ -9,14 +9,14 @@ kind:
       name: Success
       type:
         kind: scalar
-        id: 00000000-0000-0000-0000-000000000000
+        id: 0c2dd81d-9a96-4563-b86c-cc0ecd8a1d6b
     2468f46c-bb60-425c-9a4d-9ad326ccc7e2:
       name: Failure
       type:
         kind: scalar
-        id: 00000000-0000-0000-0000-000000000000
+        id: ddda9d17-6231-4cbb-83f5-432317e48492
     acd79ec6-0c44-401a-82f8-5da5422d3eec:
       name: Running
       type:
         kind: scalar
-        id: 00000000-0000-0000-0000-000000000000
+        id: 63644a70-109a-4a0b-b15c-dc85a82d6b31
