@@ -3,5 +3,10 @@ name: TickFunction
 id: 6f49e650-84ca-4899-a9bd-1f3bf17fab51
 description: Reference to the tick function of a node in a behavior tree.
 kind:
-  type: scalar
-  id: 00000000-0000-0000-0000-000000000009
+  type: structure
+  fields:
+    237992d2-17d1-459f-bca1-7185fa6a69d7:
+      name: tick_id
+      type:
+        kind: scalar
+        id: 00000000-0000-0000-0000-000000000009
