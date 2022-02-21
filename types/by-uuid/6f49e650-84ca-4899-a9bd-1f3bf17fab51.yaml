@@ -1,0 +1,7 @@
+---
+name: TickFunction
+id: 6f49e650-84ca-4899-a9bd-1f3bf17fab51
+description: Reference to the tick function of a node in a behavior tree.
+kind:
+  type: scalar
+  id: 00000000-0000-0000-0000-000000000009
