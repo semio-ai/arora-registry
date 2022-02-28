@@ -1,0 +1,12 @@
+---
+name: CallableId
+id: 6dd7f535-8245-4bf2-b081-81fd4636fa90
+description: Reference to a function registered dynamically by the host, taking no argument and returning an unspecified value type.
+kind:
+  type: structure
+  fields:
+    d799be14-e12a-4539-ac56-f7dc4634161b:
+      name: callable_id
+      type:
+        kind: scalar
+        id: 00000000-0000-0000-0000-000000000009
